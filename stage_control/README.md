@@ -1,9 +1,10 @@
-# Bug0 Algorithm with ROS
+# Bug0 Algorithm
+## Programming Assignment - CSCI5551
+`1st May 2022`
 
-<p align="Center">
-<img src = "bug0.png" style = "width:50%; height:50%;">
-</p>
+`Srujan Gowdru Lingaraju`
 
+`ID 5733332`
 ### Environment Setup
 1. ROS - Noetic Ninjemys
 2. Python3
